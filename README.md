@@ -71,5 +71,3 @@ Beyond work, I’m a strong believer in discipline and balance. Fitness—throug
 > *“Turning data into insight, insight into action, and action into impact.”*
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=sagar352002&icon=0&color=0)
