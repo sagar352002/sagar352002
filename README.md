@@ -64,15 +64,6 @@ Beyond work, I’m a strong believer in discipline and balance. Fitness—throug
 
 ---
 
-## 📊 GitHub Performance
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar352002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sagar352002&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar352002&theme=dark&layout=compact&hide_border=false)
-
----
-
-## 🏆 Top Contributions
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=sagar352002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
