@@ -183,8 +183,6 @@ This routine translates to my work: **consistency, focus, and continuous improve
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/variant_sagar)
 
 
-### Location 📍 Mumbai, India
-
 ---
 
 ### 💭 *"Turning data into insight, insight into action, and action into impact."*
