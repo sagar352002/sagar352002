@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sagar Kumar
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=800&lines=Senior+Manager+%40+ICICI+Lombard;Data+Scientist+%7C+ML+Engineer;AI+%26+Geospatial+Analytics+Specialist;Transforming+Data+into+Actionable+Intelligence;Building+Production-Grade+AI+Solutions)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=800&lines=Senior+Manager+%40+ICICI+Lombard;Data+Science+%7C+ML+Engineer+Enthusiast;AI+%26+Geospatial+Analytics+Specialist;Building+Trustworthy+AI+through+Explainability;Building+Production-Grade+AI+Solutions)](https://git.io/typing-svg)
 
 
 ---
