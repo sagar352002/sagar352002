@@ -1,73 +1,195 @@
 # 👋 Hi, I'm Sagar Kumar
 
-### 🚀 Data Scientist | AI & ML Enthusiast | Strategy & Innovation Professional
 
-I currently work at **ICICI Lombard General Insurance** in the **Strategy & Innovation** team, where I apply **data science, analytics, and automation** to solve real-world business problems and support data-driven decision-making.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=800&lines=Senior+Manager+%40+ICICI+Lombard;Data+Scientist+%7C+ML+Engineer;AI+%26+Geospatial+Analytics+Specialist;Transforming+Data+into+Actionable+Intelligence;Building+Production-Grade+AI+Solutions)](https://git.io/typing-svg)
 
-I am deeply passionate about transforming complex data into **actionable insights**, building **scalable ML solutions**, and continuously advancing my skills toward becoming an **AI Engineer**. My experience spans analytics, visualization, modeling, and process optimization, with hands-on exposure to **Machine Learning, Deep Learning, Generative AI, NLP, and Statistical Modeling**.
 
-Beyond work, I’m a strong believer in discipline and balance. Fitness—through **yoga, gym workouts, and swimming**—keeps me focused, consistent, and resilient both professionally and personally.
 
 ---
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarkumarofficial1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/variant_sagar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarkumarsoh@gmail.com)
+## 🎯 Professional Summary
+
+**Senior Manager - Strategy & Innovation** at **ICICI Lombard General Insurance**
+
+Specializing in building **production-grade AI/ML solutions** that solve complex business challenges. Expert in **Machine Learning, Geospatial Analytics, Statistical Modeling, and Generative AI** with proven track record of deploying scalable systems that drive measurable business impact.
+
+
+
+### 🏆 Core Strengths
+- 🚀 **End-to-End ML Pipelines** - From data acquisition to production deployment
+- 🌍 **Geospatial Intelligence** - Satellite imagery analysis using GEE, QGIS for agricultural risk assessment
+- 🤖 **GenAI Solutions** - RAG systems, LLM-powered automation, Agentic Ai
+- 📊 **Statistical Rigor** - Advanced modeling, hypothesis testing, time series forecasting
+
+
+
+
+
 
 ---
 
-## 🧠 Core Expertise
-- 📊 Data Analytics & Business Insights  
-- 🤖 Machine Learning & Deep Learning  
-- 🧩 Natural Language Processing (NLP)  
-- 🧠 Generative AI & LLM Applications  
-- 📈 Statistical Modeling & Optimization  
-- ⚙️ Automation & Decision Support Systems  
-- 📉 Visualization & Dashboarding  
+## 🚀 Technical Stack
 
----
 
-## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Intermediate-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Programming & Data
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+**Proficiency:**
+```
+Python    ████████████████████░  95%  |  SQL      ████████████████░░░░  80%
+R         ███████████████░░░░░  75%  |  C#       ████████████░░░░░░░░  60%
+```
 
-### Machine Learning & AI
+
+
+### Core Frameworks
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 
-### Data & Visualization
+### Generative AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Expertise:**
+- Deep Learning (CNNs, RNNs, Transformers)
+- NLP (BERT, GPT, Sentiment Analysis, NER)
+- GenAI (RAG Pipelines, Fine-tuning, Prompt Engineering)
+- Classical ML (Regression, Classification, Ensemble Methods)
+- Statistical Modeling & Hypothesis Testing
+
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+### Visualization
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### Cloud, DevOps & MLOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-d9ead3?style=for-the-badge&logo=numpy&logoColor=blue)
+### Database
 
-### Databases & Automation
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ---
 
+## 💼 Professional Experience
+
+### 🏢 ICICI Lombard General Insurance
+**Senior Manager - Strategy & Innovation** | *July 2025 - Present*
+
+#### 🌾 Crop Yield Estimation & Prediction Model
+**Objective:** Satellite-based crop yield estimation to reduce manual field surveys and support agricultural insurance risk assessment
+
+**Key Contributions:**
+- ✅ Built ML model using **satellite imagery, weather, and edaphic data** for crop yield estimation and prediction
+- ✅ Designed automated **NASA POWER (LARC)** data extraction pipeline for phenological and climatic feature engineering
+- ✅ Leveraged **Google Earth Engine (GEE)** for multi-spectral vegetation indices (NDVI, EVI, SAVI) extractiontion
+- ✅ **Reduced manual ground data collection costs by 30%** through satellite-driven assessments
+
+**Impact:** Enabled data-driven insurance pricing, faster claim processing, and reduced field team effort
+
+
+- 🔥 **NatCat Fire Insurance Analysis** - Claims pattern analysis for catastrophic fire events
+- 🌦️ **AWAS Efficacy Testing** - Evaluating Automatic Weather Alert System impact on risk mitigation
+**Tech Stack:** `Python` `TensorFlow` `GEE` `QGIS` `NASA POWER API` `Statistical Modeling`
 
 ---
 
-## 💡 Philosophy
-> *“Turning data into insight, insight into action, and action into impact.”*
+## 📚 Continuous Learning
+
+**Currently Mastering:**
+- 🧠 Advanced LLM fine-tuning (LoRA, QLoRA)
+- 🔄 Real-time ML with Kafka
+- 🎯 Explainable AI (SHAP, LIME, optimization method)
 
 ---
+
+## 💡 What Defines Me
+
+```python
+class SagarKumar:
+    def __init__(self):
+        self.role = "Senior Manager - Data Science & AI"
+        self.company = "ICICI Lombard"
+        self.location = "Mumbai, India"
+    
+    def expertise(self):
+        return {
+            "ML Engineering": "End-to-end pipeline development",
+            "Geospatial AI": "Satellite imagery + ML for agriculture",
+            "GenAI": "RAG systems, LLM automation",
+            "Statistical Modeling": "Hypothesis testing, forecasting",
+            "Business Acumen": "Translating AI into ROI"
+        }
+    
+    def current_projects(self):
+        return [
+            "Satellite-based crop yield prediction",
+            "GenAI insurance automation",
+            "Explainable ML systems"
+        ]
+    
+    def philosophy(self):
+        return "Fitness 🏋️ → Focus 💻 → Impact 🚀"
+```
+
+---
+
+## 🌟 Beyond Code
+
+### 💪 Discipline Through Fitness
+**Physical strength builds mental resilience**
+
+- 🧘 **Yoga** - Flexibility & mindfulness
+- 🏋️ **Gym** - Consistency & strength
+- 🏊 **Swimming** - Endurance & clarity
+
+This routine translates to my work: **consistency, focus, and continuous improvement**.
+
+### 📖 Interests
+- 📚 AI research papers & tech blogs
+- 🎓 Mentoring aspiring data scientists
+- 💻 Open-source contributions
+- 🌍 Geospatial analytics community
+
+---
+
+## 📫 Let's Connect!
+
+### 💼 Open to Opportunities In:
+**Machine Learning Engineering** | **AI Research** | **Geospatial Analytics** | **Statistical Modeling** | **GenAI Applications**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarkumarofficial1)
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarkumarsoh@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagar352002)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/variant_sagar)
+
+
+### Location 📍 Mumbai, India
+
+---
+
+### 💭 *"Turning data into insight, insight into action, and action into impact."*
+
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
