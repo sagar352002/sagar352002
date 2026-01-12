@@ -105,7 +105,7 @@ R         ███████████████░░░░░  75%  |  
 
 - 🔥 **NatCat Fire Insurance Analysis** - Claims pattern analysis for catastrophic fire events
 - 🌦️ **AWAS Efficacy Testing** - Evaluating Automatic Weather Alert System impact on risk mitigation
-**Tech Stack:** `Python` `TensorFlow` `GEE` `QGIS` `NASA POWER API` `Statistical Modeling`
+**Tech Stack:** `Python` `TensorFlow` `GEE` `QGIS`  `Statistical Modeling`
 
 ---
 
@@ -123,25 +123,26 @@ R         ███████████████░░░░░  75%  |  
 ```python
 class SagarKumar:
     def __init__(self):
-        self.role = "Senior Manager - Data Science & AI"
+        self.role = "Senior Manager - Strategy & Innovation"
         self.company = "ICICI Lombard"
         self.location = "Mumbai, India"
     
     def expertise(self):
         return {
-            "ML Engineering": "End-to-end pipeline development",
+            "Machine Learning": "Building end-to-end AI pipelines",
             "Geospatial AI": "Satellite imagery + ML for agriculture",
-            "GenAI": "RAG systems, LLM automation",
-            "Statistical Modeling": "Hypothesis testing, forecasting",
-            "Business Acumen": "Translating AI into ROI"
-        }
+            "Generative AI": "RAG systems, LLM automation",
+            "Statistics": "Forecasting and hypothesis testing",
+            "Business Strategy": "Turning AI into business value"
+               }
     
-    def current_projects(self):
-        return [
-            "Satellite-based crop yield prediction",
-            "GenAI insurance automation",
-            "Explainable ML systems"
-        ]
+    def what_drives_me(self):
+        return {
+            "innovation": "Bringing new ideas to real-world business",
+            "impact": "Creating solutions that make a difference",
+            "growth": "Always learning something new"
+        }
+
     
     def philosophy(self):
         return "Fitness 🏋️ → Focus 💻 → Impact 🚀"
