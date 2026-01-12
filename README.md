@@ -189,6 +189,5 @@ This routine translates to my work: **consistency, focus, and continuous improve
 
 
 ---
-![Sagar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagar352002&theme=react-dark&hide_border=true&area=true)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
