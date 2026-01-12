@@ -190,8 +190,5 @@ This routine translates to my work: **consistency, focus, and continuous improve
 
 ---
 
-<p align="center">
-  <img src="https://github.com/sagar352002/sagar352002/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
