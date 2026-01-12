@@ -105,7 +105,7 @@ R         ███████████████░░░░░  75%  |  
 
 - 🔥 **NatCat Fire Insurance Analysis** - Claims pattern analysis for catastrophic fire events
 - 🌦️ **AWAS Efficacy Testing** - Evaluating Automatic Weather Alert System impact on risk mitigation
-**Tech Stack:** `Python` `TensorFlow` `GEE` `QGIS`  `Statistical Modeling`
+
 
 ---
 
