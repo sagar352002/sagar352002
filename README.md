@@ -8,7 +8,7 @@
 
 ## 🎯 Professional Summary
 
-**Strategy Analyst** at **ICICI Lombard General Insurance**
+**Strategy & Innovation Analyst** at **ICICI Lombard General Insurance**
 
 Specializing in building **production-grade AI/ML solutions** that solve complex business challenges. Expert in **Machine Learning, Geospatial Analytics, Statistical Modeling, and Generative AI** with proven track record of deploying scalable systems that drive measurable business impact.
 
